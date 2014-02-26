@@ -1,0 +1,11 @@
+# General ignores
+.settings
+
+# Android-specific ignores
+^bin
+^gen
+^botejars/bin
+^botejars/gen
+^botejars/lib
+lint.xml
+local.properties
