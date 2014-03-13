@@ -1,0 +1,13 @@
+- Email selection
+-- Deleting emails
+-- Mark as read
+- Send button action
+- Deleting identities
+-- Select identities in list, or menu option of each?
+- Addressbook
+
+- Refactor code
+-- Reorganize for clarity
+-- Optimize use of Android lifecycles
+
+- Service to contain the Bote running threads
